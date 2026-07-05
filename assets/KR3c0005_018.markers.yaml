@@ -170,7 +170,6 @@ markers:
   - {type: 'tls:seg', offset: 144, content: '', id: KR3c0005_tls_018-4a.9}
   - {type: punctuation, offset: 146, content: ，, id: KR3c0005_tls_018-bkkpn19}
   - {type: 'tls:seg', offset: 146, content: '', id: KR3c0005_tls_018-4a.10}
-  - {type: substitution, offset: 146, original: 惽, replacement: 惛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3928}}
   - {type: punctuation, offset: 153, content: 。, id: KR3c0005_tls_018-bkkpn20}
   - {type: xml-element, offset: 153, content: '', id: KR3c0005_tls_018-bkkxmlele9}
   - {type: xml-element, offset: 153, content: '', id: KR3c0005_tls_018-bkkxmlele10}
@@ -298,9 +297,7 @@ markers:
   - {type: 'tls:seg', offset: 286, content: '', id: KR3c0005_tls_018-8a.8}
   - {type: variant, offset: 287, length: 35, content: 群臣莫敢飾言以惽主主道者使人臣前言不復於後後言不復於前事雖有功必伏其罪, WYG: 利上此之}
   - {type: variant, offset: 287, length: 35, content: 群臣莫敢飾言以惽主主道者使人臣前言不復於後後言不復於前事雖有功必伏其罪, krp: 利上此之}
-  - {type: substitution, offset: 287, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: 'tls:seg', offset: 293, content: '', id: KR3c0005_tls_018-8a.9}
-  - {type: substitution, offset: 294, original: 惽, replacement: 惛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3928}}
   - {type: punctuation, offset: 296, content: 。, id: KR3c0005_tls_018-bkkpn45}
   - {type: xml-element, offset: 296, content: '', id: KR3c0005_tls_018-bkkxmlele17}
   - {type: xml-element, offset: 296, content: '', id: KR3c0005_tls_018-bkkxmlele18}
@@ -339,10 +336,8 @@ markers:
   - {type: 'tls:seg', offset: 352, content: '', id: KR3c0005_tls_018-11a.2}
   - {type: punctuation, offset: 357, content: ，, id: KR3c0005_tls_018-bkkpn58}
   - {type: 'tls:seg', offset: 357, content: '', id: KR3c0005_tls_018-11a.3}
-  - {type: substitution, offset: 360, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 362, content: ；, id: KR3c0005_tls_018-bkkpn59}
   - {type: 'tls:seg', offset: 362, content: '', id: KR3c0005_tls_018-11a.4}
-  - {type: substitution, offset: 362, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 367, content: ，, id: KR3c0005_tls_018-bkkpn60}
   - {type: 'tls:seg', offset: 367, content: '', id: KR3c0005_tls_018-11a.5}
   - {type: punctuation, offset: 371, content: 。, id: KR3c0005_tls_018-bkkpn61}
@@ -365,7 +360,6 @@ markers:
   - {type: 'tls:seg', offset: 412, content: '', id: KR3c0005_tls_018-12a.4}
   - {type: punctuation, offset: 418, content: 。, id: KR3c0005_tls_018-bkkpn68}
   - {type: 'tls:seg', offset: 418, content: '', id: KR3c0005_tls_018-12a.5}
-  - {type: substitution, offset: 422, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 427, content: ，, id: KR3c0005_tls_018-bkkpn69}
   - {type: 'tls:seg', offset: 427, content: '', id: KR3c0005_tls_018-12a.6}
   - {type: punctuation, offset: 432, content: ；, id: KR3c0005_tls_018-bkkpn70}
@@ -582,4 +576,4 @@ markers:
   - {type: xml-element, offset: 856, content: '', id: KR3c0005_tls_018-bkkxmlele47}
   - {type: xml-element, offset: 856, content: '', id: KR3c0005_tls_018-bkkxmlele48}
   back: []
-hash: sha256:d5ada00679aa9bea16ae685118854f50db809a4afe2aa442bd8ab9bc8ca9b905
+hash: sha256:9e84d9f0ae6c0ae891d07f39ab5d3917e2040f4f74a05deabff732dbea864d31

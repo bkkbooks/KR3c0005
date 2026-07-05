@@ -113,7 +113,6 @@ markers:
   - {type: 'tls:seg', offset: 106, content: '', id: KR3c0005_tls_004-4a.6}
   - {type: variant, offset: 106, length: 1, content: 群, WYG: 既因重人而得近主故為之匿非也學士不因則飬禄薄禮卑故學士為之談也談者謂為重人延譽此四助者邪}
   - {type: variant, offset: 106, length: 1, content: 群, krp: 既因重人而得近主故為之匿非也學士不因則飬禄薄禮卑故學士為之談也談者謂為重人延譽此四助者邪}
-  - {type: substitution, offset: 106, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: variant, offset: 109, length: 6, content: 太富君主之敗, WYG: 所以自飾}
   - {type: variant, offset: 109, length: 6, content: 太富君主之敗, krp: 所以自飾}
   - {type: punctuation, offset: 111, content: ，, id: KR3c0005_tls_004-bkkpn19}
@@ -244,7 +243,6 @@ markers:
   - {type: variant, offset: 218, length: 1, content: 皆, krp: 而}
   - {type: variant, offset: 220, length: 9, content: 群臣之太富也夫燕宋, WYG: 前}
   - {type: variant, offset: 220, length: 9, content: 群臣之太富也夫燕宋, krp: 前}
-  - {type: substitution, offset: 220, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 226, content: 。, id: KR3c0005_tls_004-bkkpn40}
   - {type: xml-element, offset: 226, content: '', id: KR3c0005_tls_004-bkkxmlele17}
   - {type: xml-element, offset: 226, content: '', id: KR3c0005_tls_004-bkkxmlele18}
@@ -344,7 +342,6 @@ markers:
   - {type: variant, offset: 307, length: 8, content: 藉威城市黨與雖眾, krp: 盡其智力以陳其忠百官之吏}
   - {type: punctuation, offset: 311, content: ；, id: KR3c0005_tls_004-bkkpn59}
   - {type: 'tls:seg', offset: 311, content: '', id: KR3c0005_tls_004-11a.4}
-  - {type: substitution, offset: 314, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 315, content: ，, id: KR3c0005_tls_004-bkkpn60}
   - {type: 'tls:seg', offset: 315, content: '', id: KR3c0005_tls_004-11a.5}
   - {type: variant, offset: 317, length: 0, content: '', WYG: 奉法以致其功矣何以明之夫安利者就之危害者去之此人之情也今為}
@@ -439,4 +436,4 @@ markers:
   - {type: page-break, offset: 384, content: '', id: KR3c0005_WYG_004-24b, image: WYG0729/WYG0729-0641d.png}
   - {type: variant, offset: 384, length: 0, content: '', krp: 凢人臣者有罪固不欲誅無功者皆欲尊顯而聖人之治國也賞不加於無功而誅必行於有罪者也然則有術數者之為人臣也固左右姦臣之所害非明主弗能聼也世之學術者說人主不曰乗威嚴之勢以困姦衺之臣而皆曰仁義惠愛而已矣世主羙仁義之名而不察其實是以大者國亡身死小者地削主卑何以明之夫施貧困者此世之所謂仁義哀憐百姓不忍誅罰者此世之所謂惠愛也夫有施與貧困則無功者得賞不忍誅罰則暴亂者不止國有無功得賞者則民不外務當敵斬首内不急力田疾作皆欲行貨財事富貴為私善立名譽以取尊官厚俸故姦私之臣愈衆而暴亂之徒愈勝不亡何待夫嚴刑者民之所畏也重罰者民之所惡也故聖人陳其所畏以禁其衺設其所惡以防其姦是以國安而暴亂不起吾以是明仁義愛惠之不足用而嚴刑重罰之可以治國也無捶䇿之威銜橛之備雖造父不能以服馬無䂓矩之法䋲墨之端雖王爾不能以成方圓無威嚴之勢賞罰之法雖堯舜不能以為治今世主皆輕釋重罰嚴誅行愛惠而欲覇王之功亦不可幾也故善為主者明賞設利以勸之使民以功賞而不以仁義賜嚴刑重罰以禁之使民以罪誅而不以愛惠免是以無功者不望而有罪者不幸矣託於犀車良馬之上則可以陸犯阪阻之患乘舟之安持檝之利則可以永絶江河之難操法術之數行重罰嚴誅則可以致霸王之功治國之有法術賞罰猶若陸行之有犀車良馬也水行之有輕舟便檝也乗之者遂得其成伊尹得之湯以王管仲得之齊以霸商君得之秦以彊此三人者皆明於霸王之術察於治彊之數而不以牽於世俗之言適當世明主之意則有直任布衣之士立為卿相之處處位治國則有尊主廣地之實此之謂足貴之臣湯得伊尹以百里之地立為天子桓公得管仲立為五霸主九合諸侯一匡天下孝公得商君地以廣兵以彊故有忠者外無敵國之患内無亂臣之憂長安於天下而名垂後世所謂忠臣也若夫豫讓為智伯臣也上不能說人主使之明法術度數之理以避禍難之患下不能領御其衆以安其國及襄子之殺智伯也豫讓乃自黔劓敗其形容以為智伯報襄子之仇是雖有殘形殺身以為人主之名而實無益於智伯若秋毫之末此吾之所下也而世主以為忠而髙之古有伯夷叔齊者武王讓以天下而弗受二人餓死首陽之陵若此臣不畏重誅不利重賞不可以罰禁也不可以賞使也此之謂無益之臣也吾所少而去也而世主之所多而求也諺曰厲憐王此不恭之言也雖然古無虚諺不可不察也此謂刼殺死亡之主言也人無法術以御其臣雖長年而美材大臣猶将得勢擅事主斷而各為其私急而恐父兄豪傑之士借人主之力以禁誅於已也故弑賢長而立㓜弱廢正嫡而立不義故春秋記之曰楚王子圍将聘於鄭未出境聞王病而反因入問病以其冠纓絞王而殺之遂自立也齊崔杼其妻美而莊王通之數如崔氏之室及公往崔子之徒賈舉率崔子之徒而攻公公入室請與之分國崔子不許公請自刄於廟崔子又不聼公乃走踰於北墻賈舉射公中其股公墜崔子之徒以戈斫公而死之而立其弟景公近之所見李兊之用趙也餓主父百日而死淖齒之用齊也擢湣王之筋懸之廟梁宿昔而死故厲雖癰腫疕瘍上比於春秋未至於絞頸射股也下比於勢臣未至於餓死擢筋也故刼殺死亡之君此其心之憂懼形之苦痛也必甚厲矣由此觀之雖厲憐王可也韓非子巻四}
   back: []
-hash: sha256:729d76e755da104093431a0eba2dbc973b0bb15ffa25db0d243db93e05da0443
+hash: sha256:2239b4a9b1ecefa3aaaab40fcc43e24288c81c1fdae00079ad4e3c7e71165833

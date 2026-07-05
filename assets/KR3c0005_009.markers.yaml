@@ -277,14 +277,12 @@ markers:
   - {type: variant, offset: 413, length: 173, content: 聽論議易移以辯說為人臣者求諸侯之辯士養國中之能說者使之以語其私為巧文之言流行之辭示之以利勢懼之以患害施屬虛辭以壞其主此之謂流行七曰威強何謂威強曰君人者以群臣百姓為威強者也群臣百姓之所善則君善之非群臣百姓之所善則君不善之為人臣者聚帶劍之客養必死之士以彰其威明為己者必利不為己者必死以恐其群臣百姓而行其私此之謂威強八曰四方何謂四方曰君人者國小則事大國, krp: 内}
   - {type: punctuation, offset: 416, content: ，, id: KR3c0005_tls_009-bkkpn83}
   - {type: 'tls:seg', offset: 416, content: '', id: KR3c0005_tls_009-11a.8}
-  - {type: substitution, offset: 419, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 421, content: 。, id: KR3c0005_tls_009-bkkpn84}
   - {type: xml-element, offset: 421, content: '', id: KR3c0005_tls_009-bkkxmlele23}
   - {type: xml-element, offset: 421, content: '', id: KR3c0005_tls_009-bkkxmlele24}
   - {type: 'tls:seg', offset: 421, content: '', id: KR3c0005_tls_009-12a.1}
   - {type: 'tls:seg', offset: 421, content: '', id: KR3c0005_tls_009-12a.2}
   - {type: 'tls:seg', offset: 425, content: '', id: KR3c0005_tls_009-12a.3}
-  - {type: substitution, offset: 429, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 431, content: ，, id: KR3c0005_tls_009-bkkpn85}
   - {type: 'tls:seg', offset: 431, content: '', id: KR3c0005_tls_009-12a.4}
   - {type: punctuation, offset: 438, content: ，, id: KR3c0005_tls_009-bkkpn86}
@@ -319,19 +317,16 @@ markers:
   - {type: 'tls:seg', offset: 485, content: '', id: KR3c0005_tls_009-14a.5}
   - {type: punctuation, offset: 488, content: ，, id: KR3c0005_tls_009-bkkpn99}
   - {type: 'tls:seg', offset: 488, content: '', id: KR3c0005_tls_009-14a.6}
-  - {type: substitution, offset: 489, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: 'tls:seg', offset: 493, content: '', id: KR3c0005_tls_009-14a.7}
   - {type: punctuation, offset: 498, content: 。, id: KR3c0005_tls_009-bkkpn100}
   - {type: xml-element, offset: 498, content: '', id: KR3c0005_tls_009-bkkxmlele29}
   - {type: xml-element, offset: 498, content: '', id: KR3c0005_tls_009-bkkxmlele30}
   - {type: 'tls:seg', offset: 498, content: '', id: KR3c0005_tls_009-15a.1}
   - {type: 'tls:seg', offset: 498, content: '', id: KR3c0005_tls_009-15a.2}
-  - {type: substitution, offset: 498, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 505, content: ，, id: KR3c0005_tls_009-bkkpn101}
   - {type: 'tls:seg', offset: 505, content: '', id: KR3c0005_tls_009-15a.3}
   - {type: punctuation, offset: 509, content: ；, id: KR3c0005_tls_009-bkkpn102}
   - {type: 'tls:seg', offset: 509, content: '', id: KR3c0005_tls_009-15a.4}
-  - {type: substitution, offset: 510, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 517, content: ，, id: KR3c0005_tls_009-bkkpn103}
   - {type: 'tls:seg', offset: 517, content: '', id: KR3c0005_tls_009-15a.5}
   - {type: punctuation, offset: 522, content: 。, id: KR3c0005_tls_009-bkkpn104}
@@ -351,7 +346,6 @@ markers:
   - {type: 'tls:seg', offset: 546, content: '', id: KR3c0005_tls_009-16a.7}
   - {type: punctuation, offset: 552, content: ，, id: KR3c0005_tls_009-bkkpn110}
   - {type: 'tls:seg', offset: 552, content: '', id: KR3c0005_tls_009-16a.8}
-  - {type: substitution, offset: 555, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: 'tls:seg', offset: 559, content: '', id: KR3c0005_tls_009-16a.9}
   - {type: punctuation, offset: 563, content: ，, id: KR3c0005_tls_009-bkkpn111}
   - {type: 'tls:seg', offset: 563, content: '', id: KR3c0005_tls_009-16a.10}
@@ -460,7 +454,6 @@ markers:
   - {type: 'tls:seg', offset: 764, content: '', id: KR3c0005_tls_009-22a.4}
   - {type: punctuation, offset: 770, content: ，, id: KR3c0005_tls_009-bkkpn151}
   - {type: 'tls:seg', offset: 770, content: '', id: KR3c0005_tls_009-22a.5}
-  - {type: substitution, offset: 772, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 777, content: 。, id: KR3c0005_tls_009-bkkpn152}
   - {type: xml-element, offset: 777, content: '', id: KR3c0005_tls_009-bkkxmlele45}
   - {type: xml-element, offset: 777, content: '', id: KR3c0005_tls_009-bkkxmlele46}
@@ -490,7 +483,6 @@ markers:
   - {type: 'tls:seg', offset: 822, content: '', id: KR3c0005_tls_009-24a.6}
   - {type: punctuation, offset: 825, content: ，, id: KR3c0005_tls_009-bkkpn162}
   - {type: 'tls:seg', offset: 825, content: '', id: KR3c0005_tls_009-24a.7}
-  - {type: substitution, offset: 827, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 832, content: 。, id: KR3c0005_tls_009-bkkpn163}
   - {type: xml-element, offset: 832, content: '', id: KR3c0005_tls_009-bkkxmlele49}
   - {type: xml-element, offset: 832, content: '', id: KR3c0005_tls_009-bkkxmlele50}
@@ -502,7 +494,6 @@ markers:
   - {type: 'tls:seg', offset: 846, content: '', id: KR3c0005_tls_009-25a.4}
   - {type: punctuation, offset: 853, content: ，, id: KR3c0005_tls_009-bkkpn166}
   - {type: 'tls:seg', offset: 853, content: '', id: KR3c0005_tls_009-25a.5}
-  - {type: substitution, offset: 855, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 860, content: 。, id: KR3c0005_tls_009-bkkpn167}
   - {type: 'tls:seg', offset: 860, content: '', id: KR3c0005_tls_009-25a.6}
   - {type: punctuation, offset: 868, content: ，, id: KR3c0005_tls_009-bkkpn168}
@@ -536,7 +527,6 @@ markers:
   - {type: 'tls:seg', offset: 925, content: '', id: KR3c0005_tls_009-27a.4}
   - {type: punctuation, offset: 928, content: 。, id: KR3c0005_tls_009-bkkpn179}
   - {type: 'tls:seg', offset: 928, content: '', id: KR3c0005_tls_009-27a.5}
-  - {type: substitution, offset: 928, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 933, content: ，, id: KR3c0005_tls_009-bkkpn180}
   - {type: 'tls:seg', offset: 933, content: '', id: KR3c0005_tls_009-27a.6}
   - {type: punctuation, offset: 938, content: ；, id: KR3c0005_tls_009-bkkpn181}
@@ -645,4 +635,4 @@ markers:
   - {type: page-break, offset: 1141, content: '', id: KR3c0005_WYG_009-21b, image: WYG0729/WYG0729-0692d.png}
   - {type: variant, offset: 1141, length: 0, content: '', krp: 魏惠王謂卜皮曰子聞寡人之聲聞亦何如焉對曰臣聞王之慈惠也王欣然喜曰然則功且安至對曰王之功至於亡王曰慈惠行善也行之而亡何也卜皮對曰夫慈者不忍而惠者好與也不忍則不誅有過好予則不待有功而賞有過不罪無功受賞雖亡不亦可乎齊國好厚葬布帛盡於衣衾材木盡於棺椁桓公患之以告管仲曰布帛盡則無以為蔽材木盡則無以為守備而人厚葬之不休禁之奈何管仲對曰凡人之有為也非名之則利之也於是乃下令曰棺椁過度者戮其尸罪夫當䘮者夫戮死無名罪當䘮者無利人何故為之也衛嗣君之時有胥靡逃之魏因為襄王之后治病魏襄王之后也衛嗣君聞之使人請以五十金買之五反而魏王不予乃以左氏易之左氏都邑名也羣臣左右諫曰夫以一都買胥靡可乎王曰非子之所知也夫治無小而亂無大若不治小者則大亂起也法不立而誅不必當誅而不誅故曰不必也雖有十左氏無益也法立而誅必雖失十左氏無害也魏王聞之曰主欲治而不聽之不祥因載而往徒獻之徒獻胥靡不取都金三齊王問於文子曰治國何如對曰夫賞罰之為道利器也君固握之不可以示人若如臣者猶獸鹿也唯薦草而就獸鹿就薦草人臣歸厚賞故賞罰之利器不可示於人也越王問於大夫文種曰吾欲伐呉可乎對曰可矣吾賞厚而信罰嚴而必君欲知之何不試焚宫室於是遂焚宫室人莫救之乃下令曰人之救火者死比死敵之賞救火而不死者比勝敵之賞不救火者比北降之罪人塗其體被濡衣而走火者左三千人右三千人此知必勝之勢也呉起為魏武侯西河之守秦有小亭臨境呉起欲攻之不去則甚害田者言小亭能為田者害政當去之去之則不足以徴甲兵亭小故也於是乃倚一車轅於北門之外而令之曰有能徙此南門之外者賜之上田上宅人莫之徙也及有徙之者還賜之如令俄又置一石赤菽東門之外而令之曰有能徙此於西門之外者賜之如初人爭徙之乃下令大夫曰明日且攻亭有能先登者仕之國大夫賜之上田宅人爭趨之於是攻亭一朝而㧞之李悝為魏文侯上地之守而欲人之善射也乃下令曰人之有狐疑之訟者令之射的的所射質中之者勝不中者負令下而人皆疾習射日夜不休及與秦人戰大敗之以人之善戰射也宋崇門之巷人服䘮而毁甚瘠上以為慈愛於親舉以為官師明年人之所以毁死者嵗十餘人子之服親䘮者為愛之也而尚可以賞勸也况君上之於民乎君而無賞則功不立越王慮伐呉慮謀也欲人之輕死也出見怒鼃乃為之式從者曰奚敬於此王曰為其有氣故也明年請以頭獻王者嵗十餘人由此觀之譽之足以殺人矣譽於勇則人以頭獻一曰越王勾踐見怒鼃而式之御者曰何為式王曰鼃有氣如此可無為式乎士人聞之曰鼃有氣王猶為式况士人有勇者乎是嵗人有自剄死以其頭獻者剄割也故越王將復呉而試其教燔臺而鼔之使民赴火者賞在火也火雖殺人赴之必得賞故赴之不惧也臨江而鼓之使人赴水者賞在水也臨戰而使人絶頭刳腹而無顧心者賞在兵也又况據法而進賢其助甚此矣進賢可以得賞又無水火之難則人豈不為哉其所以不進賢者但不賞故也韓昭侯使人蔵敝袴侍者曰君亦不仁矣敝袴不以賜左右而蔵之昭侯曰非子之所知也吾聞明主之愛一嚬一笑必憂其不善勸其能善不妄為也嚬有為嚬而笑有為笑今夫袴豈特嚬笑哉嚬笑尚不妄為况敝袴豈可以無功而與也袴之與嚬笑逺矣吾必待有功者故收蔵之未有予也鱣似蛇蠶似蠋人見蛇則驚駭見蠋則毛起然而婦人拾蠶漁者握鱣利之所在則忘其所惡皆為孟賁鱣蠶有利故人握拾皆有孟賁之勇四魏王謂鄭王曰始鄭梁一國也已而别今願復得鄭而合之梁鄭君患之召羣臣而與之謀所以對魏鄭公子謂鄭君曰此甚易應也君對魏曰以鄭為故魏而可合也則敝邑亦願得梁而合之鄭魏王乃止齊宣王使人吹竽必三百人南郭處士請為王吹竽宣王說之廪食以數百人廪給宣王死湣王立好一一聴之處士逃一曰韓昭侯曰吹竽者衆吾無以知其善者田嚴對曰一一而聴之趙令人因申子於韓請兵將以攻魏申子欲言之君而恐君之欲疑己外市也為外請兵取其貨利故曰市不則恐惡於趙乃令趙紹韓沓嘗試君之動貌而後言之許不之貌必有變動可得而知故曰動貌内則知昭侯之意外則有得趙之功既為之請若許其恩固以成不許終以為之請矣亦不敢許其恩固趙之功也三國兵至韓王謂樓緩曰三國之兵深矣寡人欲割河東而講何如講謂有急且與之後寕將復取事疑存終反復若講論故曰講對曰夫割河東大費也免國於患大功也此父兄之任也王何不召公子汜而問焉王召公子汜而告之對曰講亦悔不講亦悔王今割河東而講三國歸王必曰三國固且去矣吾特以三城送之三國自去又與之城是徒以三城為送此悔之辭不講三國也入韓則國必大舉矣王必大悔王曰不獻三城也若不講之三國而韓必大舉王必悔曰不獻三城之故也臣故曰王講亦悔不講亦悔王曰為我悔也寜亡三城而悔無危乃悔寡人斷講矣言講事斷定應侯謂秦王曰王得宛葉藍田陽夏斷河内困梁鄭所以未王者趙未服也㢮上黨在一而已廢上黨弃一郡而已以臨東陽則邯鄲口中虱也以守上黨之兵臨東陽則邯鄲危如口中虱也王拱而朝天下後者以兵中之中傷也然上黨之安樂其處甚劇臣恐㢮之而不聴奈何今上黨既安樂而其處又煩劇雖欲弛之恐王不聴王曰必弛易之矣謂移易其兵以臨東陽吾斷定矣五龎敬縣令也遣市者行而召公大夫而還之公大夫亦遣為市立有間無以詔之卒遣行不命卒遣去俱不測其由也市者以為令與公大夫有言不相信以至無姦大夫雖告以不命復亦不信故不敢為姦戴驩宋太宰夜使人曰吾聞數夜有乘輼車至李史門者謹為我伺之使人報曰不見輼車見有奉笥而與李史語者有間李史受笥遣伺輼車故實奉笥本令伺奉笥彼當易其辭周主亡玉簮令吏求之三日不能得也周主令人求而得之家人之屋間周主曰吾知吏之不事事也不事於臣之事也求簮三日不得之吾令人求之不移日而得之於是吏皆聳懼以為君神明也商太宰使少庶子之市顧反而問之曰何見於市對曰無見也太宰曰雖然何見也對曰市南門之外甚衆牛車僅可以行耳太宰因誡使者無敢告人吾所問於女因召市吏而誚之曰市門之外何多牛屎市吏甚怪太宰知之疾也乃悚懼其所也六韓昭侯握爪而佯亡一爪求之甚急左右因割其爪而效之昭侯以察左右之臣不誠割爪不誠韓昭侯使騎於縣使者報昭侯問曰何見也對曰無所見也昭侯曰雖然何見曰南門之外有黄犢食苖道左者昭侯謂使者毋敢洩吾所問於女乃下令曰當苖時禁牛馬入人田中國有令而吏不以為事牛馬甚多入人田中亟舉其數上之不得將重其罪於是三鄉舉而上之昭侯曰未盡也復往審之乃得南門之外黄犢吏以昭侯為明察皆悚懼其所而不敢為非周主下令索曲杖吏求之數日不能得周主私使人求之不移日而得之乃謂吏曰吾知吏不事事也曲杖甚易也而吏不能得我令人求之不移日而得之豈可謂忠哉吏乃皆悚懼其所以君為神明卜皮為縣令其御吏汚穢而有愛妾卜皮乃使少庶子佯愛之佯愛御吏以知御吏隂情西門豹為鄴令佯亡其車轄令吏求之不能得使人求之而得之家人屋間七陽山君相衛聞王之疑己也乃偽謗樛豎以知之樛豎王之所愛令偽謗之必憤而言王之疑己也淖齒聞齊王之惡己也乃矯為秦使以知之王既不疑秦使必以情告齊人有欲為亂者恐王知之因詐逐所愛者令走王知之王知逐所愛則不疑其為亂也子之相燕坐而佯言曰走出門者何白馬也左右皆言不見有一人走追之報曰有子之以此知左右之不誠信偽報有白馬者是不誠信有相與訟者子産離之而無使得通辭倒其言以告而知之謂得此言以告彼彼言以告此則知訟者之情實衛嗣公使人為客過關市關市苛難之因事關市以金與關吏乃舍之嗣公為關吏曰某時有客過而所與汝金而汝因遣之關吏乃大恐而以嗣公為明察右傳韓非子卷九}
   back: []
-hash: sha256:30a430a92a7d4872f34e9a8a75be9da9ee726a75996767362630d03cce6cb821
+hash: sha256:f8e24c892819e359a9919267a3c0331ba3d105a898c7e09247fdb8e4a797ca11

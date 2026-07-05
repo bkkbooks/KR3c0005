@@ -220,7 +220,6 @@ markers:
   - {type: variant, offset: 203, length: 31, content: 親不愛則䟽語曰其母好者其子抱然則其為之反也其母惡者其子釋丈夫年, krp: 隕身滅國矣詭使第四十}
   - {type: punctuation, offset: 204, content: ，, id: KR3c0005_tls_017-bkkpn28}
   - {type: 'tls:seg', offset: 204, content: '', id: KR3c0005_tls_017-7a.6}
-  - {type: substitution, offset: 207, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3186}}
   - {type: punctuation, offset: 208, content: 。, id: KR3c0005_tls_017-bkkpn29}
   - {type: 'tls:seg', offset: 208, content: '', id: KR3c0005_tls_017-7a.7}
   - {type: punctuation, offset: 210, content: ：, id: KR3c0005_tls_017-bkkpn30}
@@ -248,7 +247,6 @@ markers:
   - {type: 'tls:seg', offset: 252, content: '', id: KR3c0005_tls_017-9a.2}
   - {type: punctuation, offset: 264, content: ，, id: KR3c0005_tls_017-bkkpn38}
   - {type: 'tls:seg', offset: 264, content: '', id: KR3c0005_tls_017-9a.3}
-  - {type: substitution, offset: 267, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3186}}
   - {type: punctuation, offset: 269, content: ，, id: KR3c0005_tls_017-bkkpn39}
   - {type: 'tls:seg', offset: 269, content: '', id: KR3c0005_tls_017-9a.4}
   - {type: punctuation, offset: 275, content: ，, id: KR3c0005_tls_017-bkkpn40}
@@ -311,7 +309,6 @@ markers:
   - {type: 'tls:seg', offset: 356, content: '', id: KR3c0005_tls_017-11a.4}
   - {type: punctuation, offset: 358, content: ：, id: KR3c0005_tls_017-bkkpn57}
   - {type: 'tls:seg', offset: 358, content: '', id: KR3c0005_tls_017-11a.5}
-  - {type: substitution, offset: 362, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 363, content: ，, id: KR3c0005_tls_017-bkkpn58}
   - {type: 'tls:seg', offset: 363, content: '', id: KR3c0005_tls_017-11a.6}
   - {type: punctuation, offset: 367, content: 。, id: KR3c0005_tls_017-bkkpn59}
@@ -408,10 +405,8 @@ markers:
   - {type: 'tls:seg', offset: 574, content: '', id: KR3c0005_tls_017-17a.2}
   - {type: punctuation, offset: 579, content: ，, id: KR3c0005_tls_017-bkkpn91}
   - {type: 'tls:seg', offset: 579, content: '', id: KR3c0005_tls_017-17a.3}
-  - {type: substitution, offset: 583, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 584, content: ，, id: KR3c0005_tls_017-bkkpn92}
   - {type: 'tls:seg', offset: 584, content: '', id: KR3c0005_tls_017-17a.4}
-  - {type: substitution, offset: 584, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 589, content: 。, id: KR3c0005_tls_017-bkkpn93}
   - {type: xml-element, offset: 589, content: '', id: KR3c0005_tls_017-bkkxmlele35}
   - {type: xml-element, offset: 589, content: '', id: KR3c0005_tls_017-bkkxmlele36}
@@ -543,10 +538,8 @@ markers:
   - {type: 'tls:seg', offset: 805, content: '', id: KR3c0005_tls_017-23a.9}
   - {type: variant, offset: 807, length: 45, content: 其民絕望無所告愬大臣比周蔽上為一陰相善而陽相惡以示無私相為耳目以候主隙人主掩蔽無道得聞有主, WYG: 賢者顯}
   - {type: variant, offset: 807, length: 45, content: 其民絕望無所告愬大臣比周蔽上為一陰相善而陽相惡以示無私相為耳目以候主隙人主掩蔽無道得聞有主, krp: 賢者顯}
-  - {type: substitution, offset: 809, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 811, content: ，, id: KR3c0005_tls_017-bkkpn129}
   - {type: 'tls:seg', offset: 811, content: '', id: KR3c0005_tls_017-23a.10}
-  - {type: substitution, offset: 814, original: 愬, replacement: 訴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0409}}
   - {type: punctuation, offset: 815, content: 。, id: KR3c0005_tls_017-bkkpn130}
   - {type: xml-element, offset: 815, content: '', id: KR3c0005_tls_017-bkkxmlele47}
   - {type: xml-element, offset: 815, content: '', id: KR3c0005_tls_017-bkkxmlele48}
@@ -600,4 +593,4 @@ markers:
   - {type: xml-element, offset: 889, content: '', id: KR3c0005_tls_017-bkkxmlele51}
   - {type: xml-element, offset: 889, content: '', id: KR3c0005_tls_017-bkkxmlele52}
   back: []
-hash: sha256:8e9c2207b7d03076ee7974822cc4223964282611bab14a0b17d21a041c40c833
+hash: sha256:76bf119b0d8c335649806c4862a74c665bc1846fcc46875155553bc7386fab25

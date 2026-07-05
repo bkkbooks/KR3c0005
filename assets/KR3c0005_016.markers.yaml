@@ -91,7 +91,6 @@ markers:
   - {type: 'tls:seg', offset: 96, content: '', id: KR3c0005_tls_016-3a.4}
   - {type: variant, offset: 97, length: 9, content: 忠直日䟽愛人不獨利, WYG: 用智故曰多事}
   - {type: variant, offset: 97, length: 9, content: 忠直日䟽愛人不獨利, krp: 用智故曰多事}
-  - {type: substitution, offset: 100, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3186}}
   - {type: punctuation, offset: 101, content: 。, id: KR3c0005_tls_016-bkkpn15}
   - {type: xml-element, offset: 101, content: '', id: KR3c0005_tls_016-bkkxmlele7}
   - {type: xml-element, offset: 101, content: '', id: KR3c0005_tls_016-bkkxmlele8}
@@ -146,7 +145,6 @@ markers:
   - {type: variant, offset: 141, length: 4, content: 勞憚使群, krp: 本也或曰天子失道諸侯伐之故有湯武諸侯失道大夫伐之故有齊晉}
   - {type: punctuation, offset: 143, content: ，, id: KR3c0005_tls_016-bkkpn21}
   - {type: 'tls:seg', offset: 143, content: '', id: KR3c0005_tls_016-5a.3}
-  - {type: substitution, offset: 144, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: variant, offset: 146, length: 2, content: 輻湊, WYG: 而伐君者必亡則是湯武不王晉齊不立也孫子君於衛而後不臣於魯臣}
   - {type: variant, offset: 146, length: 2, content: 輻湊, krp: 而伐君者必亡則是湯武不王晉齊不立也孫子君於衛而後不臣於魯臣}
   - {type: variant, offset: 149, length: 7, content: 變因傳柄移藉使, WYG: 君也君有失也故臣有得也不命亡於有失之君而命亡於有得之臣不察魯不得誅衛大夫而衛君之明不知不悛之臣孫子雖有是二也以亡其所以失所以得君也或曰臣主之施分也臣能奪君者以得相踦也故非其分而取者衆之所奪也辭其分而取者民之所予也是以桀索㟭山之女紂求比干之心而天下離湯身易名武身受詈而海内服趙咺走山田氏外僕而齊晉從則湯武之所以王齊晉之所以立非必以其君也彼得之而後以君處之也今未有其所以得而行其所以處是倒義而逆德也倒義則事之所以敗也逆德則怨之所以聚也敗亡之不察何也魯陽虎欲攻三桓不尅而犇齊齊景公禮之鮑文子諫曰不可陽虎有寵於季氏而欲伐於季孫貪其富也今君富於季孫而齊大於魯陽虎所以盡詐也景公乃囚陽虎或曰千金之家其子不仁人之急利甚也桓公五伯之上也争國而}
@@ -163,7 +161,6 @@ markers:
   - {type: variant, offset: 159, length: 3, content: 機奪予, krp: 間非兄弟}
   - {type: punctuation, offset: 160, content: 、, id: KR3c0005_tls_016-bkkpn24}
   - {type: 'tls:seg', offset: 160, content: '', id: KR3c0005_tls_016-5a.6}
-  - {type: substitution, offset: 161, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
   - {type: variant, offset: 163, length: 20, content: 要在大臣如是者侵此謂三守不完三守不完則劫, WYG: 親也刼}
   - {type: page-break, offset: 163, content: '', id: KR3c0005_WYG_016-12b, image: WYG0729/WYG0729-0753b.png}
   - {type: variant, offset: 163, length: 20, content: 要在大臣如是者侵此謂三守不完三守不完則劫, krp: 親也刼}
@@ -212,7 +209,6 @@ markers:
   - {type: variant, offset: 212, length: 1, content: 資, krp: 使}
   - {type: variant, offset: 213, length: 1, content: 群, WYG: 羣}
   - {type: variant, offset: 213, length: 1, content: 群, krp: 羣}
-  - {type: substitution, offset: 213, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 215, content: ，, id: KR3c0005_tls_016-bkkpn35}
   - {type: 'tls:seg', offset: 215, content: '', id: KR3c0005_tls_016-8a.4}
   - {type: variant, offset: 215, length: 3, content: 使外內, WYG: 忠也未知齊}
@@ -240,7 +236,6 @@ markers:
   - {type: 'tls:seg', offset: 240, content: '', id: KR3c0005_tls_016-9a.2}
   - {type: variant, offset: 242, length: 1, content: 群, WYG: ''}
   - {type: variant, offset: 242, length: 1, content: 群, krp: ''}
-  - {type: substitution, offset: 242, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: variant, offset: 244, length: 7, content: 直莫敢忠主憂國, WYG: 懼罪輕舉}
   - {type: variant, offset: 244, length: 7, content: 直莫敢忠主憂國, krp: 懼罪輕舉}
   - {type: 'tls:seg', offset: 251, content: '', id: KR3c0005_tls_016-9a.3}
@@ -280,7 +275,6 @@ markers:
   - {type: 'tls:seg', offset: 293, content: '', id: KR3c0005_tls_016-10a.5}
   - {type: punctuation, offset: 298, content: ？, id: KR3c0005_tls_016-bkkpn47}
   - {type: 'tls:seg', offset: 298, content: '', id: KR3c0005_tls_016-10a.6}
-  - {type: substitution, offset: 298, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 304, content: ，, id: KR3c0005_tls_016-bkkpn48}
   - {type: 'tls:seg', offset: 304, content: '', id: KR3c0005_tls_016-10a.7}
   - {type: variant, offset: 309, length: 13, content: 效公忠此謂明劫鬻寵擅權矯外, WYG: 知其壅也已見之後而知其壅也故退壅臣是加知之也曰不加知而使賢者煬已則必危而今}
@@ -321,7 +315,6 @@ markers:
   - {type: 'tls:seg', offset: 365, content: '', id: KR3c0005_tls_016-13a.2}
   - {type: punctuation, offset: 370, content: ，, id: KR3c0005_tls_016-bkkpn59}
   - {type: 'tls:seg', offset: 370, content: '', id: KR3c0005_tls_016-13a.3}
-  - {type: substitution, offset: 370, original: 壹, replacement: 一, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3874}}
   - {type: punctuation, offset: 378, content: ，, id: KR3c0005_tls_016-bkkpn60}
   - {type: 'tls:seg', offset: 378, content: '', id: KR3c0005_tls_016-13a.4}
   - {type: variant, offset: 385, length: 1, content: 信, WYG: 危}
@@ -361,4 +354,4 @@ markers:
   - {type: xml-element, offset: 433, content: '', id: KR3c0005_tls_016-bkkxmlele31}
   - {type: xml-element, offset: 433, content: '', id: KR3c0005_tls_016-bkkxmlele32}
   back: []
-hash: sha256:aefbaeecbade8df367515db74cce8e5d63e1345bb66ad203a285c2221692f942
+hash: sha256:6e9abb14bc91bfb885f713b58fc6bf2bf59a516159e502ae5cf87e004b21b0b0
