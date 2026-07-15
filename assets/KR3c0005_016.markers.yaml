@@ -91,6 +91,7 @@ markers:
   - {type: 'tls:seg', offset: 96, content: '', id: KR3c0005_tls_016-3a.4}
   - {type: variant, offset: 97, length: 9, content: 忠直日䟽愛人不獨利, WYG: 用智故曰多事}
   - {type: variant, offset: 97, length: 9, content: 忠直日䟽愛人不獨利, krp: 用智故曰多事}
+  - {type: substitution, offset: 100, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
   - {type: punctuation, offset: 101, content: 。, id: KR3c0005_tls_016-bkkpn15}
   - {type: xml-element, offset: 101, content: '', id: KR3c0005_tls_016-bkkxmlele7}
   - {type: xml-element, offset: 101, content: '', id: KR3c0005_tls_016-bkkxmlele8}
@@ -161,6 +162,7 @@ markers:
   - {type: variant, offset: 159, length: 3, content: 機奪予, krp: 間非兄弟}
   - {type: punctuation, offset: 160, content: 、, id: KR3c0005_tls_016-bkkpn24}
   - {type: 'tls:seg', offset: 160, content: '', id: KR3c0005_tls_016-5a.6}
+  - {type: substitution, offset: 161, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: variant, offset: 163, length: 20, content: 要在大臣如是者侵此謂三守不完三守不完則劫, WYG: 親也刼}
   - {type: page-break, offset: 163, content: '', id: KR3c0005_WYG_016-12b, image: WYG0729/WYG0729-0753b.png}
   - {type: variant, offset: 163, length: 20, content: 要在大臣如是者侵此謂三守不完三守不完則劫, krp: 親也刼}
@@ -315,6 +317,7 @@ markers:
   - {type: 'tls:seg', offset: 365, content: '', id: KR3c0005_tls_016-13a.2}
   - {type: punctuation, offset: 370, content: ，, id: KR3c0005_tls_016-bkkpn59}
   - {type: 'tls:seg', offset: 370, content: '', id: KR3c0005_tls_016-13a.3}
+  - {type: substitution, offset: 370, original: 壹, replacement: 一, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20157}}
   - {type: punctuation, offset: 378, content: ，, id: KR3c0005_tls_016-bkkpn60}
   - {type: 'tls:seg', offset: 378, content: '', id: KR3c0005_tls_016-13a.4}
   - {type: variant, offset: 385, length: 1, content: 信, WYG: 危}
@@ -354,4 +357,4 @@ markers:
   - {type: xml-element, offset: 433, content: '', id: KR3c0005_tls_016-bkkxmlele31}
   - {type: xml-element, offset: 433, content: '', id: KR3c0005_tls_016-bkkxmlele32}
   back: []
-hash: sha256:6e9abb14bc91bfb885f713b58fc6bf2bf59a516159e502ae5cf87e004b21b0b0
+hash: sha256:6840de650dd4d694e44921f225ec5786967d218dd3f3d6a9ed4885a6ac88a1c9

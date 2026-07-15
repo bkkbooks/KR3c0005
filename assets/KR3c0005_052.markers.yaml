@@ -126,6 +126,7 @@ markers:
   - {type: punctuation, offset: 311, content: ，, id: KR3c0005_tls_052-bkkpn50}
   - {type: 'tls:seg', offset: 311, content: '', id: KR3c0005_tls_052-6a.4}
   - {type: 'tls:seg', offset: 319, content: '', id: KR3c0005_tls_052-6a.5}
+  - {type: substitution, offset: 321, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
   - {type: punctuation, offset: 323, content: ，, id: KR3c0005_tls_052-bkkpn51}
   - {type: 'tls:seg', offset: 323, content: '', id: KR3c0005_tls_052-6a.6}
   - {type: punctuation, offset: 333, content: ，, id: KR3c0005_tls_052-bkkpn52}
@@ -149,6 +150,7 @@ markers:
   - {type: 'tls:seg', offset: 382, content: '', id: KR3c0005_tls_052-7a.5}
   - {type: 'tls:seg', offset: 387, content: '', id: KR3c0005_tls_052-7a.6}
   - {type: 'tls:seg', offset: 394, content: '', id: KR3c0005_tls_052-7a.7}
+  - {type: substitution, offset: 396, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 398, content: ？, id: KR3c0005_tls_052-bkkpn60}
   - {type: 'tls:seg', offset: 398, content: '', id: KR3c0005_tls_052-7a.8}
   - {type: punctuation, offset: 406, content: 。, id: KR3c0005_tls_052-bkkpn61}
@@ -181,6 +183,7 @@ markers:
   - {type: xml-element, offset: 472, content: '', id: KR3c0005_tls_052-bkkxmlele18}
   - {type: 'tls:seg', offset: 472, content: '', id: KR3c0005_tls_052-9a.1}
   - {type: 'tls:seg', offset: 472, content: '', id: KR3c0005_tls_052-9a.2}
+  - {type: substitution, offset: 472, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: 'tls:seg', offset: 476, content: '', id: KR3c0005_tls_052-9a.3}
   - {type: 'tls:seg', offset: 483, content: '', id: KR3c0005_tls_052-9a.4}
   - {type: punctuation, offset: 489, content: ？, id: KR3c0005_tls_052-bkkpn72}
@@ -228,6 +231,7 @@ markers:
   - {type: xml-element, offset: 619, content: '', id: KR3c0005_tls_052-bkkxmlele24}
   - {type: 'tls:seg', offset: 619, content: '', id: KR3c0005_tls_052-12a.1}
   - {type: 'tls:seg', offset: 619, content: '', id: KR3c0005_tls_052-12a.2}
+  - {type: substitution, offset: 623, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 630, content: ，, id: KR3c0005_tls_052-bkkpn89}
   - {type: 'tls:seg', offset: 630, content: '', id: KR3c0005_tls_052-12a.3}
   - {type: punctuation, offset: 640, content: ，, id: KR3c0005_tls_052-bkkpn90}
@@ -239,6 +243,7 @@ markers:
   - {type: 'tls:seg', offset: 655, content: '', id: KR3c0005_tls_052-12a.7}
   - {type: punctuation, offset: 661, content: ，, id: KR3c0005_tls_052-bkkpn93}
   - {type: 'tls:seg', offset: 661, content: '', id: KR3c0005_tls_052-12a.8}
+  - {type: substitution, offset: 662, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 667, content: ，, id: KR3c0005_tls_052-bkkpn94}
   - {type: 'tls:seg', offset: 667, content: '', id: KR3c0005_tls_052-12a.9}
   - {type: punctuation, offset: 676, content: ，, id: KR3c0005_tls_052-bkkpn95}
@@ -263,4 +268,4 @@ markers:
   - {type: xml-element, offset: 734, content: '', id: KR3c0005_tls_052-bkkxmlele27}
   - {type: xml-element, offset: 734, content: '', id: KR3c0005_tls_052-bkkxmlele28}
   back: []
-hash: sha256:7d1aecc1d83450d2b3c1900dc9f62a075feb36d6c0765ddbf1be9f0da7ded5ba
+hash: sha256:30483e3d2ffbc0e9eaaca0da70fa1ba3587b9aa3e9443798b6902a56cab7dc09
